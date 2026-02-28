@@ -1,6 +1,6 @@
 import express from 'express';
 const router = express.Router();
-import * as userController from '../controllers/usercontroller.js';
+import * as userController from '../controllers/userController.js';
 import authMiddleware from '../middleware/auth.js'
 
 //all routes are protected
