@@ -99,7 +99,7 @@ Create a `.env` file in the backend directory and add the required keys:
 
     DATABASE_URL=
     JWT_SECRET=
-    OPENAI_API_KEY=
+    GEMINI_API_KEY=
 
 ### 4️⃣ Build frontend for production
 
